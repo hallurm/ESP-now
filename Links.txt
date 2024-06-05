@@ -1,0 +1,5 @@
+Farver: https://barth-dev.de/online/rgb565-color-picker/
+Fonts: https://oleddisplay.squix.ch/#/home
+Billeder (TFT): http://www.rinkydinkelectronics.com/t_imageconverter565.php
+Billeder (OLED): https://javl.github.io/image2cpp/
+Eksempel fra Arduino (docs): https://docs.arduino.cc/tutorials/nano-esp32/esp-now/
